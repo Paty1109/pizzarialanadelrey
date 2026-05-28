@@ -8,6 +8,7 @@ public class PizzarialanadelreyApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PizzarialanadelreyApplication.class, args);
+		System.out.println("Servidor rodando na porta 8080");
 	}
 
 }
