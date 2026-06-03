@@ -1,7 +1,9 @@
 package com.itb.inf2fm.pizzarialanadelrey.model.enums;
 
-public enum TipoUsuario() {
+public enum TipoUsuario {
 
-    ADMINISTRADOR
+    ADMINISTRADOR,
+    CLIENTE,
+    FUNCIONARIO
 
 }
